@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahbub Hasan Riayd</h1>
 - 🌱 I’m currently learning **AI, MERN Stack**
 
-- 📫 How to reach me **riyad.info1@gmail.com**
+- 📫 How to reach me * riyad.info1@gmail.com *
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

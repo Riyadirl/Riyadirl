@@ -24,7 +24,7 @@
 
 
 
-
+<!--2
 
 
 
@@ -57,6 +57,34 @@
 
 
 
+
+### Hi there 👋, my name is Mahbub Hasan Riyad
+A CSE student.
+👀 I’m interested in Ethical Hacking, Cyber Security, AI and MERN stack.
+📰 Reading tech documentation whenever possible
+
+
+
+Skills:  JS / HTML / CSS / Python / C / C++ 
+
+- 🌱 I’m currently learning MERN Stack 
+- 📫 How to reach me: riyad.info1@gmail.com 
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/riyadirl)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mahabub-hasan-riyad-80755a268/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/crlwat)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/crlwat)  
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=riyadirl)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riyadirl)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=riyadirl&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=riyadirl)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=riyadirl)  
 
 
 

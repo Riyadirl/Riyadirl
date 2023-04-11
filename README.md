@@ -35,7 +35,7 @@
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/crlwat) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahabub-hasan-riyad-80755a268) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/crlwat) 
 
-<img align="right" height="150" src="https://ih1.redbubble.net/image.91545791.4174/raf,750x1000,075,t,101010:01c5ca27c6.u2.jpg"  />
+<img align="right" height="150" src="https://th.bing.com/th/id/R.d3bb6183fe7bc7bfac8288e964becd64?rik=Zo6eyAWmwFxmaA&pid=ImgRaw&r=0"  />
 
 
 # 💻 Tech Stack:

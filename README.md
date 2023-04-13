@@ -35,7 +35,7 @@
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/crlwat) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahabub-hasan-riyad-80755a268) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/crlwat) 
 
-<img align="right" height="150" src="https://giphy.com/gifs/cute-anime-uU8IHAFVDVhks/fullscreen"  />
+<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzllYmRjNjU0ZGUxYTE4NTdhYjFmZTM5YTY1OGQxNDM1MGE4Y2ZjOSZjdD1n/uU8IHAFVDVhks/giphy.gif"  />
 
 
 # 💻 Tech Stack:

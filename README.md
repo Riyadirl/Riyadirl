@@ -34,7 +34,7 @@
 
 
 
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzllYmRjNjU0ZGUxYTE4NTdhYjFmZTM5YTY1OGQxNDM1MGE4Y2ZjOSZjdD1n/uU8IHAFVDVhks/giphy.gif"  />
+<img align="right" height="150" src="https://th.bing.com/th/id/R.b1793240d0754bd831e8d8597d07844e?rik=RaOtRof9z6I1Ow&riu=http%3a%2f%2fpa1.narvii.com%2f5825%2f237ed279a3760bc062e14d53a91e8892cc6434bd_hq.gif&ehk=HLhmCR4%2f2cgYy5r%2bFO41cLZpzjcZqRXt4009bxMfPHM%3d&risl=&pid=ImgRaw&r=0"  />
 
 
 # 💻 Tech Stack:
@@ -93,3 +93,8 @@ Skills:  JS / HTML / CSS / Python / C / C++
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Riyadirl&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+
+
+
+
+https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzllYmRjNjU0ZGUxYTE4NTdhYjFmZTM5YTY1OGQxNDM1MGE4Y2ZjOSZjdD1n/uU8IHAFVDVhks/giphy.gif

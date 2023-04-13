@@ -32,8 +32,7 @@
 👀 I’m interested in Ethical Hacking, Cyber Security, AI and MERN stack .<br>📰 Reading tech documentations whenever possible
 
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/crlwat) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahabub-hasan-riyad-80755a268) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/crlwat) 
+
 
 <img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzllYmRjNjU0ZGUxYTE4NTdhYjFmZTM5YTY1OGQxNDM1MGE4Y2ZjOSZjdD1n/uU8IHAFVDVhks/giphy.gif"  />
 
@@ -45,11 +44,12 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Riyadirl&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Riyadirl&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Riyadirl&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/crlwat) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahabub-hasan-riyad-80755a268) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/crlwat) 
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/riyadirl) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/riyadirl) 
+
+
+
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) 
@@ -90,3 +90,6 @@ Skills:  JS / HTML / CSS / Python / C / C++
 
  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Riyadirl&theme=dark&no-frame=false&no-bg=true&margin-w=4)

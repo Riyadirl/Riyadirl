@@ -113,14 +113,15 @@ https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzllYmRjNjU0ZGUxYTE4NTdhYjFmZT
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/crlwat) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahabub-hasan-riyad-80755a268) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/riyadzxy) 
 
 
-<img align="right" height="150" src="https://giphy.com/gifs/UQ1EI1ML2ABQdbebup"  />
+
+![807b5c4b02e765bb4930b7c66662ef4b](https://github.com/user-attachments/assets/bfff29cc-0d2f-4d73-96d3-2b4bbe14e88a)
 
 
 <!-- # 💻 Tech Stack:
 https://giphy.com/gifs/UQ1EI1ML2ABQdbebup
 
 
-
+<img align="right" height="150" src="https://giphy.com/gifs/UQ1EI1ML2ABQdbebup"  />
 
 //light gif    
 <img align="right" height="150" src="https://th.bing.com/th/id/R.b1793240d0754bd831e8d8597d07844e?rik=RaOtRof9z6I1Ow&riu=http%3a%2f%2fpa1.narvii.com%2f5825%2f237ed279a3760bc062e14d53a91e8892cc6434bd_hq.gif&ehk=HLhmCR4%2f2cgYy5r%2bFO41cLZpzjcZqRXt4009bxMfPHM%3d&risl=&pid=ImgRaw&r=0"  />

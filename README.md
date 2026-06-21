@@ -109,12 +109,8 @@ https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzllYmRjNjU0ZGUxYTE4NTdhYjFmZT
 👀 I’m interested in Ethical Hacking, Cyber Security, AI and MERN stack .<br>📰 Reading tech documentations whenever possible
 
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/crlwat) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahabub-hasan-riyad-80755a268) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/riyadzxy) 
+\
 
-
-
-![807b5c4b02e765bb4930b7c66662ef4b](https://github.com/user-attachments/assets/bfff29cc-0d2f-4d73-96d3-2b4bbe14e88a)
 
 
 <!-- # 💻 Tech Stack:
